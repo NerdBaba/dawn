@@ -100,21 +100,21 @@ const CONFIG = new Config({
       ]
     },
     {
-      name: 'music',
+      name: 'linux',
       background_url: 'src/img/banners/bg-2.gif',
       categories: [
         {
-          name: 'music services',
+          name: 'Gaming',
           links: [
             {
-              url: 'https://soundcloud.com/',
-              icon: 'brand-soundcloud',
-              icon_color: '#c57750'
+              url: 'https://protondb.com/',
+              icon: 'brand-steam',
+              icon_color: '#00abfb'
             },
             {
-              url: 'https://youtu.be/',
-              icon: 'brand-youtube',
-              icon_color: '#996767'
+              url: 'https://cs.rin.ru/forum/',
+              icon: 'share',
+              icon_color: '#fd0061'
             },
             {
               url: 'https://r-a-d.io/',
@@ -123,16 +123,16 @@ const CONFIG = new Config({
           ]
         },
         {
-          name: 'music boards',
+          name: 'Gaming subreddits',
           links: [
             {
-              name: '/music/',
-              url: 'https://lainchan.org/music/',
-              icon: 'disc'
+              name: '/Linux Gaming/',
+              url: 'https://www.reddit.com/r/linux_gaming/',
+              icon: 'pacman'
             },
             {
-              name: '/mu/',
-              url: 'https://boards.4channel.org/mu/',
+              name: '/LinuxCrackSupport/',
+              url: 'https://www.reddit.com/r/LinuxCrackSupport/',
             }
           ]
         }

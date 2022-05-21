@@ -100,7 +100,7 @@ const CONFIG = new Config({
       ]
     },
     {
-      name: 'linux',
+      name: 'games',
       background_url: 'src/img/banners/bg-2.gif',
       categories: [
         {

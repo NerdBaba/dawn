@@ -1,7 +1,7 @@
 const CONFIG = new Config({
   crypto: {
     coin: 'ETH',
-    currency: 'USD',
+    currency: 'INR',
     refreshIn: 10
   },
   temperature: {
@@ -196,7 +196,7 @@ const CONFIG = new Config({
               url: 'https://developer.mozilla.org/en-US/',
               icon: 'notebook',
               icon_color: '#1e90ff'
-            }
+            },
             {
               name: 'rust docs',
               url: 'https://doc.rust-lang.org/book/',

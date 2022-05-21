@@ -1,11 +1,11 @@
 const CONFIG = new Config({
   crypto: {
     coin: 'ETH',
-    currency: 'USD',
+    currency: 'INR',
     refreshIn: 10
   },
   temperature: {
-    location: 'Matão, São Paulo',
+    location: 'Chennai, IN',
     scale: 'C'
   },
   clock: 'h:i p',
@@ -191,6 +191,12 @@ const CONFIG = new Config({
               url: 'http://afternoon.dynu.com/letterbox.html',
               icon: 'mailbox'
             },
+            {
+              name: 'mozilla webdev',
+              url: 'https://developer.mozilla.org/en-US/',
+              icon: 'notebook',
+              icon_color: '#977a3a'
+            }
             {
               name: 'rust docs',
               url: 'https://doc.rust-lang.org/book/',

@@ -126,12 +126,12 @@ const CONFIG = new Config({
           name: 'Gaming subreddits',
           links: [
             {
-              name: '/Linux Gaming/',
+              name: 'r/Linux Gaming',
               url: 'https://www.reddit.com/r/linux_gaming/',
               icon: 'pacman'
             },
             {
-              name: '/LinuxCrackSupport/',
+              name: 'r/LinuxCrackSupport',
               url: 'https://www.reddit.com/r/LinuxCrackSupport/',
             }
           ]

@@ -91,6 +91,11 @@ const CONFIG = new Config({
             url: 'https://www.lainchan.org/sec/catalog.html'
           },
           {
+            name: 'UnblockIT',
+            url: 'https://unblockit.blue/'
+            icon: 'brand-netflix'
+          },
+          {
             name: '/prog/',
             url: 'https://boards.420chan.org/prog/',
             icon: 'code'

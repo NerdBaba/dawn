@@ -93,7 +93,7 @@ const CONFIG = new Config({
           {
             name: 'Unblockit',
             url: 'https://unblockit.blue/',
-            icon: 'brand-netflix'
+            icon: 'brand-netflix',
             icon_color: '#fd0061'
           },
           {
